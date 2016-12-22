@@ -1,5 +1,6 @@
 {
     "name": "nativex/composer-aws",
+    "version": "0.0.1",
     "type": "composer-plugin",
     "description": "A composer plugin that allows installing packages stored on S3",
     "keywords": ["amazon", "aws", "s3", "composer", "composer-plugin", "plugin"],
